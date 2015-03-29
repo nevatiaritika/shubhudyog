@@ -90,7 +90,7 @@ img{max-width:100%;}
 	border-bottom: 1px ridge #1F1F1F;
 }
 .top-nav ul ul li a:hover{
-	color: #72A717;
+	color: #D35400;
 	background:#212121;
 }
 .top-nav ul li:nth-child(1){
@@ -183,7 +183,7 @@ img{max-width:100%;}
 		font-family: 'Monda', sans-serif;
 }
 .images_1_of_4 .button a:hover{
-	    background: #8dc63f;
+	    background: #D35400;
 		color: #fff;
 		transition: all 0.3s;
 }
@@ -386,7 +386,7 @@ img{max-width:100%;}
 	margin-bottom:4em;
 }
 .partners h3 span {
-	color: #8dc63f;
+	color: #D35400;
 	margin-right: 0.2em;
 }
 .p-logo{
@@ -399,7 +399,7 @@ img{max-width:100%;}
 /*---start-footer----*/
 /*---footer----*/
 .footer{
-	background:#2E2E2E;
+	background:#1A0E5C;
 	padding:20px 0px;
 	margin-top: 30px;
 	-webkit-box-shadow: 0px 56px 36px 66px rgba(93, 95, 93, 0.36);
@@ -427,7 +427,7 @@ img{max-width:100%;}
 }
 .footer-grid a{
 	font-family: 'Monda', sans-serif;
-	color: #8dc63f;
+	color: #D35400;
 	font-size: 0.875em;
 	text-transform: uppercase;
 	background: #FFF;
@@ -441,7 +441,7 @@ img{max-width:100%;}
 	transition: all 0.3s ease-out;
 }
 .footer-grid a:hover{
-	background:#8dc63f;
+	background:#D35400;
 	color:#FFF;
 }
 .footer-grid ul li{
@@ -472,7 +472,7 @@ img{max-width:100%;}
 }
 .twitts span{
 	display:block;
-	color:#8dc63f;
+	color:#D35400;
 	font-family: 'Monda', sans-serif;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
@@ -498,7 +498,7 @@ img{max-width:100%;}
 	text-transform: uppercase;
 }
 .copy-right p a{
-	color:#8dc63f;
+	color:#D35400;
 	font-family: 'Monda', sans-serif;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
@@ -593,7 +593,7 @@ img{max-width:100%;}
 	border:none;
 }
 .about-histore ul li p label{
-	color:#8dc63f;
+	color:#D35400;
 	display:block;
 }
 .about-sidebar{
@@ -619,7 +619,7 @@ img{max-width:100%;}
 	-webkit-transition: 0.5s ease;
 }
 .about-sidebar ul li a:hover{
-	color: #8dc63f;
+	color: #D35400;
 }
 .about-sidebar ul li {
 	border-bottom: 1px dashed rgba(192, 192, 192, 0.33);
@@ -689,7 +689,7 @@ img{max-width:100%;}
 	-webkit-transition: 0.5s ease;
 }
 .services-sidebar ul li a:hover{
-	color: #8dc63f;
+	color: #D35400;
 }
 .services-sidebar ul li {
 	border-bottom: 1px dashed rgba(192, 192, 192, 0.33);
@@ -935,12 +935,12 @@ img{max-width:100%;}
 	cursor:pointer;
 }
 .contact-form input[type="submit"]:hover{
-	background: #8dc63f;
+	background: #D35400;
 	color: #fff;
 	transition: all 0.3s;
 }
 .contact-form input[type="submit"]:active{
-	background: #8dc63f;
+	background: #D35400;
 	color: #fff;
 	transition: all 0.3s;
 }
